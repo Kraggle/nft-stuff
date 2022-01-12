@@ -1,31 +1,27 @@
 {
-  "name": "Martian Shareholder #26",
+  "name": "Martians World #26",
   "symbol": "MW",
-  "description": "Shares In The Martian World",
+  "description": "Ticket Into The Martians World",
   "seller_fee_basis_points": 750,
   "image": "26.png",
   "external_url": "https://martians.world/nft-collection-1/",
   "edition": 26,
-  "collection": {
-    "name": "MartianShareholder",
-    "family": "MartianShareholder"
-  },
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Head",
       "value": "Pink"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Green"
+      "trait_type": "Body Type",
+      "value": "Cyan"
     },
     {
-      "trait_type": "Accessories",
-      "value": "Crown"
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Afro"
     }
   ],
   "properties": {

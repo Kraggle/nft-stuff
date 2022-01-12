@@ -1,0 +1,50 @@
+{
+  "name": "Martians World #327",
+  "symbol": "MW",
+  "description": "Ticket Into The Martians World",
+  "seller_fee_basis_points": 750,
+  "image": "327.png",
+  "external_url": "https://martians.world/nft-collection-1/",
+  "edition": 327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Party-Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "327.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9fWS7ssdLVHnuRTPZCv4gps9Mb26YEtLMaG6zJTFJ7XX",
+        "share": 34
+      },
+      {
+        "address": "3K4cHT9po7GE5oKYo7EjghvAaaiiVk5bdY1YMegeKp5p",
+        "share": 33
+      },
+      {
+        "address": "6hfWKULjrgCX4qn3dvywaCp1aVbNHptzEASSdNLJbJnh",
+        "share": 33
+      }
+    ]
+  }
+}

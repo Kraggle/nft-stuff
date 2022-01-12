@@ -1,6 +1,6 @@
 {
-    "price": 1.37,
-    "number": 77,
+    "price": 0.37,
+    "number": 7777,
     "gatekeeper": null,
     "solTreasuryAccount": "9fWS7ssdLVHnuRTPZCv4gps9Mb26YEtLMaG6zJTFJ7XX",
     "splTokenAccount": null,
@@ -9,10 +9,11 @@
     "endSettings": null,
     "whitelistMintSettings": null,
     "hiddenSettings": null,
-    "storage": "arweave-sol",
+    "storage": "arweave",
     "ipfsInfuraProjectId": null,
     "ipfsInfuraSecret": null,
     "awsS3Bucket": null,
     "noRetainAuthority": false,
-    "noMutable": false
+    "noMutable": false,
+    "batchSize": 10000
 }
