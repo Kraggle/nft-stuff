@@ -76,3 +76,6 @@ typings/
 .fusebox/
 
 *.zip
+
+metaplex/
+hashlips_art_engine/
